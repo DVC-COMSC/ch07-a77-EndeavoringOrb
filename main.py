@@ -13,6 +13,8 @@ for i in range(smaller):
     num2.pop(0)
 num3.append(num1 + num2)
 
+print(num3)
+
 # ******************************
 # Make your Code
 # ******************************
